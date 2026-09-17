@@ -1,0 +1,6 @@
+{
+  "name": "Ralar",
+  "description": "Production-quality payment platform for running events, hackathons, and causes on Stellar through Pollar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Left vertical ledger column -->
+    <path
+        android:fillColor="#FBFAF7"
+        android:pathData="M34,30 L44,30 L44,78 L34,78 Z" />
+
+    <!-- Top settlement loop -->
+    <path
+        android:fillColor="#FBFAF7"
+        android:pathData="M44,30 L66,30 C72,30 76,34 76,41 C76,48 72,52 66,52 L44,52 Z M44,38 L64,38 C66.5,38 68,39.2 68,41 C68,42.8 66.5,44 64,44 L44,44 Z" />
+
+    <!-- Diagonal transfer path -->
+    <path
+        android:fillColor="#FBFAF7"
+        android:pathData="M52,50 L64,50 L78,78 L66,78 Z" />
+
+    <!-- Precision green ledger tick mark -->
+    <path
+        android:fillColor="#0E5C3A"
+        android:pathData="M34,70 L44,70 L44,78 L34,78 Z" />
+
+    <!-- Stellar settlement indicator point -->
+    <path
+        android:fillColor="#0E5C3A"
+        android:pathData="M72,72 L78,72 L78,78 L72,78 Z" />
+</vector>
